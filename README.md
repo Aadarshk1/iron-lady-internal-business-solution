@@ -86,7 +86,7 @@ Leads | ✅ | ✅ | ✅ | ✅ |
 
 ## 🚀 How To Run The Project
 1. Download or clone the repository  
-2. Open Task 2 folder  
+2. Open Task folder  
 3. Open `index.html` in browser  
 
 ---
